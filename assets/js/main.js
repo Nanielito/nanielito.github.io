@@ -3,7 +3,7 @@ $(function() {
     var browserLang = navigator.language || navigator.userLanguage;
     
     var option = {
-        lng: (/^es-\d+$/).test(browserLang) ? 'es' : browserLang,
+        lng: (/^es-\d+$/).test(browserLang) ? 'es' : browserLang.split('-')[0],
         resGetPath: 'resources/locales/__lng__/__ns__.json',
         fallbacking: 'es'
     };
