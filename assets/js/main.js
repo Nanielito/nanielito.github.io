@@ -11,7 +11,17 @@ $(function() {
     $.i18n.init(option, function() {
         $('[id$="_section"]').i18n();
     });
-    
+
+    $('.bfh-languages').on('click', function (e) {
+      var language = $(this).attr('data-language').split('_')[0];
+      
+      option['lang'] = language;
+
+      $.i18n.init(option, function() {
+        $('[id$="_section"]').i18n();
+      });
+    });
+
     /*======= Skillset *=======*/
     
     $('.level-bar-inner').css('width', '0');
@@ -65,6 +75,4 @@ $(function() {
     
     /* Github Activity Feed - https://github.com/nanielito/github-activity */
     GitHubActivity.feed({ username: "nanielito", selector: "#ghfeed" });
-
-
 });
