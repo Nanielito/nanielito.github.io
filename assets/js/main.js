@@ -1,10 +1,10 @@
 $(function() {
-  var browserLang = navigator.language || navigator.userLanguage;
+  var language = ((new URL(document.location)).searchParams).get('setLng') || navigator.language || navigator.userLanguage;
     
   var option = {
-    lng: (/^es-\d+$/).test(browserLang) ? 'es' : browserLang.split('-')[0],
+    lng: (/^es-\d+$/).test(language) ? 'es' : language.split('-')[0],
     resGetPath: 'resources/locales/__lng__/__ns__.json',
-    fallbacking: 'es'
+    fallbacking: 'en'
   };
     
   $.i18n.init(option, function () {
@@ -17,10 +17,7 @@ $(function() {
 
     var language = $(this).attr('data-language').split('_')[0];
       
-    $.i18n.setLng(language, function () {
-      $('[id$="_section"]').i18n();
-      return false;
-    });
+    window.location.replace(document.location.origin + '?setLng=' + language);
 
     return false;
   });
