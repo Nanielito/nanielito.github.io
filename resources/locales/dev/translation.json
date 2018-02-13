@@ -1,7 +1,7 @@
 {
 	"html": {
 		"profile_section": {
-			"occupation": "Back End Developer",
+			"occupation": "Back-End Developer",
 			"file": "./files/CV-En.pdf",
 			"download_label": "Download Resume",
 			"contact_label": "Contact Me"
@@ -9,13 +9,13 @@
 		"about_section": {
 			"title": "About Me",
 			"introduction": [
-				"<p>I like programming, in fact I find it very entertaining. I am passionate computing engineer. I am very interested in Software Engineering and due to this I am constantly looking for stuff related to this area to put it into practice.</p>",
+				"<p>I like programming, in fact I find it very entertaining. I am passionate computing engineer. I am very interested in Software Engineering and due to this I am constantly looking for Information related to this area to put it into practice.</p>",
 				"<h4>A little more</h4>",
-				"<p>I received my engineer degree from Universidad Simón Bolívar (Venezuela) in 2012 where I studied Computer Science. Here I learned how to use a lot of programming languages and many types of tools which could help me to do my job. After graduating, I had been working in the finance industry for 2 years. At this moment, I am working in private healthcare industry. I decided to make this change because I wanted to do somehting more interesting.</p>",
+				"<p>I received my engineer degree from Universidad Simón Bolívar (Venezuela) in 2012 where I studied Computer Science. Here I learned how to use a lot of programming languages and many types of tools which could help me to do my job. After graduating, I had been working in the finance industry for 2 years. Currently, I am working at Smartmatic, a company which develop electoral solutions for governments. I decided to make this change because I wanted to do somehting more interesting.</p>",
 				"<h4>Side project</h4>",
-				"<p>I recently participated in the Global Urban Datafest: Smart Cities Hackathon and won a prize for technical advice along with my teammates to promote the project in which we participated. I believe this is a great opportunity to know people who is related to another careers beyond IT and learn to work with them to carry out this project.</p>",
+				"<p>In 2015, I participated in the Global Urban Datafest: Smart Cities Hackathon and won a prize for technical assistance along with my teammates to promote the project in which we participated. That experience was great opportunity to know people who is related to another careers beyond IT and learn to work with them to carry out a personal project.</p>",
 				"<h4>Some skills tags</h4>",
-				"<p>I have great skills in .NET Framework and Javascript due to my past experience working as a .NET Developer and Javascript Programmer. I am also highly proficient in C/C++ and Java Programming. Moreover, I am constantly looking for new technologies, I like to try new things and find how to use them in my work. I have been developing an API in Node.js and, after all the learning process, I can say I like it. Similarly, I had tried another programming languages and frameworks that you can review in my resume.</p>",
+				"<p>I have great skills in areas related to software development due to my past experience working as .NET and Java developer. I am also highly proficient in C/C++ and JavaScript Programming. Moreover, I am constantly looking for new technologies, I like to try new things and find how to use them in my work. I have been developing an API in Node.js and, after all the learning process, I can say I like it. Similarly, I had tried another programming languages and frameworks that you can review in my resume.</p>",
 				"<h4>What I am looking for</h4>",
 				"<p>I want to work on interesting and challenging projects. I want to have new opportunities to develop my skills and learn new ones. I do not want to work in a place where the most important is the time you spend sitting in a chair doing nothing. I believe It is cool when a company understands that developers can be more productive if they have freedom to do their job without following offices schedules.</p>",
 				"<p>I am happy working independently or in a close team environment, and apply a positive attitude to every task I undertake. I want to be part of a team with clear vision and enthusiasm that want to create the best technology for people.</p>",
@@ -29,37 +29,37 @@
 					"position": "Software Engineer",
 					"company": "Smartmatic",
 					"year": "(2015 - Current)",
-					"description": "As member of Electoral Solutions Departament, I had been involved in multiple projects for electoral events in Venezuela, Argentina, Philippines, Uganda among others in the different company products. I have worked as a Java developer for server side applications as well as a C/C++ developer for client side platform (voting machines)."
+					"description": "As member of Electoral Solutions Departament, I had been involved in multiple projects for electoral events in Venezuela, Argentina, Philippines, and Uganda among others in the different company products. I have worked as a Java developer for server side applications as well as a C/C++ developer for client side platform (voting machines)."
 				},
 				{
 					"position": "Lead Developer",
 					"company": "MediCitas",
 					"year": "(2014 - 2015)",
-					"description": "As Lead Programmer, I was responsible both in the design and the underlying architecture for the new software solutions inside the company. I had to develop database components based on MS SQL Server and a web service layer on .NET framework."
+					"description": "As Lead Programmer, I was responsible both in design and underlying architecture for the company's new software solutions. I develop database components based on MS SQL Server and a web service layer on .NET Framework."
 				},
 				{
 					"position": "System Analyst",
 					"company": "BBVA Banco Provincial",
 					"year": "(2012 - 2014)",
-					"description": "I worked at the Department of Design and Develop (Workflow area). Here, I had to develop modules and applications for office network based on .NET framework (Back-End) and HTML/CSS/Javascript (Front-End)."
+					"description": "I worked at Department of Design and Development (Workflow area). Here, I develop modules and applications for office network based on .NET Framework (Back-End) and HTML/CSS/JavaScript (Front-End)."
 				},
 				{
 					"position": "Intern",
 					"company": "Venemergencia",
 					"year": "(2011)",
-					"description": "I worked at the Department of Technology. Here, I had to develop a mobile app for manage a kind of electronic health record related to its clients and other process like laboratory exams and ambulance services."
+					"description": "I worked at Department of Technology. Here, I had to develop a mobile app for manage a kind of electronic health record related to its clients and other process like laboratory exams and ambulance services."
 				},
 				{
 					"position": "Teaching Assistant",
 					"company": "Universidad Simón Bolívar",
 					"year": "(2011 - 2012)",
-					"description": "I was giving support to the Department of Computing and Information Technology. My work involved imparting practical classes in C programming and user interfaces."
+					"description": "I was giving support to Department of Computing and Information Technology. My work involved imparting practical classes in C programming language and user interfaces."
 				},
 				{
 					"position": "Teaching Assistant",
 					"company": "Universidad Simón Bolívar",
 					"year": "(2007 - 2008)",
-					"description": "I worked at the Department of Mathematics. My work involved imparting practical classes of topics previously learnt in the course."
+					"description": "I worked at Department of Mathematics. My work involved imparting practical classes of topics previously learnt in the course."
 				}
 			]
 		},
@@ -78,7 +78,7 @@
 			},
 			"website": {
 				"label": "Website:",
-				"value": "http://www.nanielito.me"
+				"value": "http://nanielito.github.io"
 			}
 		},
 		"skills_section": {
@@ -92,31 +92,31 @@
 				},
 				{
 					"skill": "C/C++",
-					"description": "I had developed many programs to do some specific task in Unix environments also I had used it in videogame development using Open GL",
+					"description": "I had developed many programs to do some specific task in Unix environments also I had used it in videogame development based on Open GL",
 					"level": "Pro",
 					"percent": "70%"
 				},
 				{
 					"skill": "Java",
-					"description": "JDBC, JSP Servlets, Struts, Java ME (SDK Android/BlackBerry)",
+					"description": "JDBC, JSP Servlets, Hibernate, Struts, Java ME (SDK Android/BlackBerry)",
 					"level": "Pro",
 					"percent": "75%"
 				},
 				{
-					"skill": "Javascript &amp; jQuery",
-					"description": "I used it for develop asynchronous calls at client level",
+					"skill": "JavaScript &amp; jQuery, Angular",
+					"description": "I used it for developing asynchronous calls at client level and Front-End development",
 					"level": "Pro",
 					"percent": "75%"
 				},
 				{
 					"skill": "Node.js",
-					"description": "These days I had developed RESTFul API's using Express",
-					"level": "Intermediate",
-					"percent": "60%"
+					"description": "I had been involved in RESTful API development using Express",
+					"level": "Pro",
+					"percent": "70%"
 				},
 				{
 					"skill": "DBMS",
-					"description": "MS SQLServer, Oracle SQL, PostgresSQL, MySQL",
+					"description": "MS SQL Server, Oracle SQL, PostgresSQL, MySQL, MongoDB",
 					"level": "Expert",
 					"percent": "80%"
 				},

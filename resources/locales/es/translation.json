@@ -1,7 +1,7 @@
 {
 	"html": {
 		"profile_section": {
-			"occupation": "Desarrollador Back End",
+			"occupation": "Desarrollador Back-End",
 			"file": "./files/CV-Es.pdf",
 			"download_label": "Descargar CV",
 			"contact_label": "Contáctame"
@@ -13,9 +13,9 @@
 				"<h4>Un poco más</h4>",
 				"<p>Obtuve mi título universitario en la Universidad Simón Bolívar (Venezuela) en 2012 donde estudié Ingeniería en Computación. Aquí aprendí a utilizar varios lenguajes de programación y muchos tipos de herramientas que pudieran ayudarme a completar mis labores. Después de graduarme,estuve trabajando en la industria financiera durante 2 años. Actualmente, estoy trabajando para la industria de salud privada. Decidí realizar este cambio ya que quería involucrarme en algo más interesante.</p>",
 				"<h4>Projectos personales</h4>",
-				"<p>Recientemente participé en el Global Urban Datafest: Smart Cities Hackathon y gané un premio para asistencia técnica junto con mis compañeros de equipo para desarrollar el proyecto con el cual participamos. Creo que es una gran oportunidad para conocer personas que se encuentren relacionadas a otras carreras no tecnológicas y aprender a trabajar con ellos para llevar a cabo este proyecto</p>",
+				"<p>En 2015 participé en el Global Urban Datafest: Smart Cities Hackathon y gané un premio para asistencia técnica junto con mis compañeros de equipo para desarrollar el proyecto con el cual participamos. Esa experiencia fue una gran oportunidad para conocer personas que se encuentran relacionadas a otras carreras no tecnológicas y aprender a trabajar con ellos para llevar a cabo un proyecto personal</p>",
 				"<h4>Algunas destrezas</h4>",
-				"<p>Poseo destrezas con .NET Framework y Javascript debido a mi experiencia trabajando como desarrollador .NET y programador en Javascript. También soy muy bueno programando con C/C++ y Java. Por otra parte, estoy en constante búsqueda de nuevas tecnologías, me gusta probar nuevas cosas y encontrar formas de usarlas en mi trabajo. He estado desarrollando un API en Node.js y, después de todo el proceso de aprendizaje, puedo decir que me gusta. Similarmente, he utilizado otros lenguajes de programación y frameworks que pueden validar en mi sintesis curricular.</p>",
+				"<p>Poseo destrezas en áreas relacionadas con el desarrollo de software debido a mi experiencia trabajando como desarrollador .NET y Java. También soy muy bueno programando con C/C++ y JavaScript. Por otra parte, estoy en constante búsqueda de nuevas tecnologías, me gusta probar nuevas cosas y encontrar formas de usarlas en mi trabajo. He estado desarrollando un API en Node.js y, después de todo el proceso de aprendizaje, puedo decir que me gusta. Similarmente, he utilizado otros lenguajes de programación y frameworks que pueden validar en mi sintesis curricular.</p>",
 				"<h4>Qué estoy buscando</h4>",
 				"<p>Quiero trabajar en proyectos retadores e interesantes. Me gustaría tener nuevas oportunidades para desarrollar mis destrezas y aprender nuevas. No quiero trabajar en un lugar donde lo más importante sea el tiempo que inviertes en estar sentado sin hacer nada. Creo que es genial cuando una empresa entiende que los desarrolladores pueden ser más productivos si tienen libertidad de realizar sus labores sin seguir horarios de oficina.</p>",
 				"<p>Soy feliz trabajando solo o en equipo, aplicando una actitud positiva en cada tarea que tenga asignada. Quiero ser parte de un equipo con una visión clara y entusiasta en crear la mejor tecnología para las personas.</p>",
@@ -78,7 +78,7 @@
 			},
 			"website": {
 				"label": "Sitio Web:",
-				"value": "http://www.nanielito.me"
+				"value": "http://nanielito.github.io"
 			}
 		},
 		"skills_section": {
@@ -98,25 +98,25 @@
 				},
 				{
 					"skill": "Java",
-					"description": "JDBC, JSP Servlets, Struts, Java ME (SDK Android/BlackBerry)",
+					"description": "JDBC, JSP Servlets, Hibernate, Struts, Java ME (SDK Android/BlackBerry)",
 					"level": "Profesional",
 					"percent": "75%"
 				},
 				{
-					"skill": "Javascript &amp; jQuery",
-					"description": "Lo he utilizado para desarrollar métodos asíncronos a nivel de cliente",
+					"skill": "JavaScript &amp; jQuery, Angular",
+					"description": "Lo he utilizado para desarrollar métodos asíncronos a nivel de cliente y desarrollo Front-End",
 					"level": "Profesional",
 					"percent": "75%"
 				},
 				{
 					"skill": "Node.js",
 					"description": "En estos días he desarrollado un API RESTFul utilizando Express",
-					"level": "Intermedio",
-					"percent": "60%"
+					"level": "Pro",
+					"percent": "70%"
 				},
 				{
 					"skill": "DBMS",
-					"description": "MS SQLServer, Oracle SQL, PostgresSQL, MySQL",
+					"description": "MS SQL Server, Oracle SQL, PostgresSQL, MySQL, MongoDB",
 					"level": "Experto",
 					"percent": "80%"
 				},
